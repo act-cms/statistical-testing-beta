@@ -1,1 +1,1 @@
-# moralech-umu-public-statistical-testing-beta
+# statistical-testing-beta
