@@ -1,2 +1,2 @@
 # statistical-testing-beta
-ACT-CMS modules to be made available on the ACT-CMS portal
+Jupyter notebook for data analysis in an Analytical Chemistry Laboratory using masses of pennies to illustrate concepts in Gaussian statistics and hypothesis testing
